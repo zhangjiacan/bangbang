@@ -1,0 +1,60 @@
+[ 2017-03-27T16:18:06+08:00 ] 127.0.0.1 /api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Api
+
+[ 2017-03-27T16:18:06+08:00 ] 127.0.0.1 /themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-03-27T16:18:11+08:00 ] 127.0.0.1 /api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Api
+
+[ 2017-03-27T16:18:11+08:00 ] 127.0.0.1 /themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Themes
+
+[ 2017-03-27T16:18:11+08:00 ] 127.0.0.1 /images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Images
+
+[ 2017-03-27T16:18:40+08:00 ] 127.0.0.1 /themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Themes/68ecshop_hechafree/images/sdgg
+
+[ 2017-03-27T16:18:40+08:00 ] 127.0.0.1 /api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Api/cron
+
+[ 2017-03-27T16:18:40+08:00 ] 127.0.0.1 /images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Images/sdgg
+
+[ 2017-03-27T16:19:17+08:00 ] 127.0.0.1 /api/cron.php-t=1452023217
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Api
+
+[ 2017-03-27T16:19:17+08:00 ] 127.0.0.1 /themes/68ecshop_hechafree/images/sdgg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Themes
+

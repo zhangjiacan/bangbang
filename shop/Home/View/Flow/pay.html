@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<form method='post' action="http://127.0.0.1/pay/index.php">   
+	<input type='hidden' name='v_mid' value="{$pay.v_mid}">          
+	<p>订单编号:<input type='hidden' name='v_oid' value="{$pay.v_oid}">{$pay.v_oid}</p>
+	<p>订单总金额:<input type='hidden' name='v_amount' value="{$pay.v_amount}">{$pay.v_amount}</p>
+	<input type='hidden' name='v_moneytype' value="{$pay.v_moneytype}">             
+	<input type='hidden' name='v_url' value="{$pay.v_url}">
+	<input type='hidden' name='v_md5info' value="{$pay.v_md5info}"> 
+	<p><input type="submit" name="" value="确定支付"></p>  
+	</form>              
+</body>
+</html>
